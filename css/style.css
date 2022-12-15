@@ -1,0 +1,8 @@
+a.btn.btn-primary:hover {
+    box-shadow: 5px 5px gray;
+}
+a.btn.btn-primary {
+    color: black;
+    background-color: white;
+    border-color: transparent;
+}
