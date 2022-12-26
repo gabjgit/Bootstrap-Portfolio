@@ -15,9 +15,9 @@ https://gabjgit.github.io/Bootstrap-Portfolio/
 
 ## Credits
 My learning resouces include the following:
-https://getbootstrap.com/
-https://developer.mozilla.org/
-https://www.w3schools.com/
+* https://getbootstrap.com/
+* https://developer.mozilla.org/
+* https://www.w3schools.com/
 
 Some images from my personal website: 
 https://josephgabriel.co.uk
